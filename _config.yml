@@ -117,14 +117,14 @@ header:
 ###########################   Home / hero  ################################
 ###########################################################################
 
-first_name: Albert
-last_name: Walkers
-date_of_bath: '1990-07-01 00:00'
-email: 'mymail@gmail.com'
-phone: '+77 022 177 05 05'
-address: 'Ave 11, New York, USA'
-interests: 'Playstation, Reading'
-study: 'Univercity of Chicago'
+first_name: 안녕하세요,
+last_name: 김 명 진 입니다.
+date_of_bath: '1999-10-26'
+email: 'kimmjin10@naver.com'
+phone: '010-3397-3025'
+address: 'Korea,Seoul'
+major : 'IT Media Engineering'
+study: 'Duksung Women's University'
 degree: 'Master'
 cv_download_link: '#'
 user_intro: ' I am a Web Developer, and I&#39;m very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.'
