@@ -34,9 +34,9 @@ vendor:
 
 
 layout: 'classic'
-html_directionality:  'ltl' # ltl ( default ) "rtl", ltl
-home_style: "parallax"  #default (parallax) , "parallax", "water", "glitch", "particle", "kenburn", "youtube", "animation"
-background_style:  "dark"  # default ( light), "dark"
+html_directionality: 'ltl' # ltl ( default ) "rtl", ltl
+home_style: 'parallax'
+background_style: 'dark' # default ( light), "dark"
 title: '김명진'
 tag: []
 description: ''
