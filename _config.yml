@@ -32,7 +32,7 @@ vendor:
   name: DUCOR
   url: "https://themeforest.net/user/ducor"
 
-html_directionality: 'classic' # ltl ( default ) "rtl", ltl
+html_directionality: 'ltl'
 # Build settings
 plugins:
   - jekyll-feed
