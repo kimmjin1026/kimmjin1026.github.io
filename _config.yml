@@ -74,7 +74,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -160,27 +160,27 @@ social_link:
 #############################################
 ######### Our Services ######################
 #############################################
-our_services_title: 'Services'
-our_services_tagline: 'What I Do'
+our_services_title: 'What I DO'
+our_services_tagline: 'service'
 
 our_services:
-  - name: "Web Development"
+  - name: "Machine Learning"
     image: "img/svg/source.svg"
     description: "Web design is a similar process of creation, with the intention of presenting.."
 
-  - name: 'Brand Identity'
+  - name: 'Web Development'
     image: 'img/svg/line-chart.svg'
     description: 'Web design is a similar process of creation, with the intention of presenting...'
   
-  - name: 'Creative Design'
+  - name: 'App Development'
     image: 'img/svg/light-bulb.svg'
     description: 'Web design is a similar process of creation, with the intention of presenting...'
   
-  - name: 'Adobe Illustrator'
+  - name: 'Photoshop/Illustration/XD/Indesign'
     image: 'img/svg/adobe-illustrator.svg'
     description: 'Web design is a similar process of creation, with the intention of presenting...'
   
-  - name: 'Adobe Photoshop'
+  - name: 'Unity'
     image: 'img/svg/adobe-photoshop.svg'
     description: 'Web design is a similar process of creation, with the intention of presenting...'
   
