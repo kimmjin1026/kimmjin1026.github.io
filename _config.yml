@@ -72,7 +72,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -132,11 +132,11 @@ user_intro: ' I am a Web Developer, and I&#39;m very passionate and dedicated to
 
 freelance_hire: true
 professions: 
-  - photographer
-  - blogger
+  - developer
+  - designer
   - web developer
-  - freelancer
-  - photographer
+  - machine learning engineer
+  - full stack
 author_description: "<strong>Hello, I’m a Patrick</strong>, web-developer based on Paris. <br> I have rich experience in web site design &amp; building <br> and customization. Also I am good at <strong>html, css, <br> wordpress, php, jquery, bootstrap.</strong>"
 social_link:
   - name: facebook
