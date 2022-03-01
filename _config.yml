@@ -117,15 +117,15 @@ header:
 ###########################   Home / hero  ################################
 ###########################################################################
 
-first_name: Albert
-last_name: Walkers
-date_of_bath: '1990-07-01 00:00'
-email: 'mymail@gmail.com'
-phone: '+77 022 177 05 05'
-address: 'Ave 11, New York, USA'
-interests: 'Playstation, Reading'
-study: 'Univercity of Chicago'
-degree: 'Master'
+first_name: 김 명 진
+last_name: Myoungjin Kim
+date_of_bath: '1999-10-26'
+email: 'kimmjin10@naver.com'
+phone: '010-3397-3025'
+address: '대한민국, 서울'
+interests: '명상, 그림 그리기, 추리소설 읽기'
+study: '덕성여자대학교'
+degree: '학사'
 cv_download_link: '#'
 user_intro: ' I am a Web Developer, and I&#39;m very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.'
 
