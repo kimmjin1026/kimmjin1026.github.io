@@ -33,11 +33,11 @@ vendor:
   url: "https://themeforest.net/user/ducor"
 
 
-layout: classic
+layout: 'classic'
 html_directionality:  'ltl' # ltl ( default ) "rtl", ltl
 home_style: "parallax"  #default (parallax) , "parallax", "water", "glitch", "particle", "kenburn", "youtube", "animation"
 background_style:  "dark"  # default ( light), "dark"
-title: 'Home'
+title: '김명진'
 tag: []
 description: ''
 # Build settings
