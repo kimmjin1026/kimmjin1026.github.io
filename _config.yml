@@ -219,11 +219,13 @@ professional_skills:
 #########################################
 portfolio_title: 'What I did'
 portfolio_tagline: 'Portfolios'
-portfolio_categories: ['']
+portfolio_categories: ['논문','앱','웹']
 
 portfolios: 
   - main_image: 'img/portfolio/1.jpg'
     title: '인공지능 감정분석 기술을 이용한 관객 참여형 공연에서의 실감형 콘텐츠 생성 방식에 관한 연구
+    type: '논문'
+    category: ''
     video_link: 'https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002761282'
 
   - main_image: 'img/portfolio/2.jpg'
