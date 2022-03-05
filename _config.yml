@@ -137,7 +137,7 @@ cv_download_link: '#'
 user_intro: '안녕하세요 저는 웹과 앱을 개발하고싶은 개발자 <span>김 명 진<span>입니다.\n디자인적으로 기업에 맞고 고객이 보기 편한, 서비스적으로도 편리한 웹 및 앱을 개발함으로써 결과적으로 깨끗한 웹/앱 서비스를 개발하여 고객들이 필요로하는, 필수로하는 서비스를 제공하고 싶습니다.'
 
 
-freelance_hire: false
+freelance_hire: true
 professions: 
   - App developer
   - designer
@@ -228,36 +228,7 @@ portfolios:
     category: '논문'
     video_link: 'https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002761282'
 
-  - main_image: 'img/portfolio/2.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
 
-  - main_image: 'img/portfolio/8.webp'
-    title: 'Animate Image'
-    type: 'animation'
-    category: 'animation'
-    video_link: 
-
-
-  - main_image: 'img/portfolio/4.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
-
-  - main_image: 'img/portfolio/5.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
-
-  - main_image: 'img/portfolio/6.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
     
     
 
