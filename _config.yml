@@ -134,7 +134,7 @@ interests: '명상, 그림 그리기, 추리소설 읽기'
 study: '덕성여자대학교'
 degree: 'IT미디어공학과 학사'
 cv_download_link: '#'
-user_intro: "안녕하세요 저는 웹과 앱을 개발하고싶은 개발자 <span>김 명 진<span>입니다.\n디자인적으로 기업에 맞고 고객이 보기 편한, 서비스적으로도 편리한 웹 및 앱을 개발함으로써 결과적으로 깨끗한 웹/앱 서비스를 개발하여 고객들이 필요로하는, 필수로하는 서비스를 제공하고 싶습니다."
+user_intro: '안녕하세요 저는 웹과 앱을 개발하고싶은 개발자 <span>김 명 진<span>입니다.\n디자인적으로 기업에 맞고 고객이 보기 편한, 서비스적으로도 편리한 웹 및 앱을 개발함으로써 결과적으로 깨끗한 웹/앱 서비스를 개발하여 고객들이 필요로하는, 필수로하는 서비스를 제공하고 싶습니다.'
 
 
 freelance_hire: false
@@ -180,7 +180,7 @@ our_services:
     image: 'img/svg/light-bulb.svg'
     description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다.'
     
-  - name: "App Development IOS"
+  - name: 'App Development IOS'
     image: 'img/svg/light-bulb.svg'
     description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다. 눌리기 '
   
@@ -188,7 +188,7 @@ our_services:
     image: 'img/svg/adobe-illustrator.svg'
     description: 'GTQi 1급 자격증을 취득했으며, 대학과정에서 Photoshop, illustrator, XD, Indesign 기술을 배웠으며 성적은 A+이다.'
   
-  - name: "Machine Learning"
+  - name: 'Machine Learning'
     image: "img/svg/source.svg"
     description: "TextCNN을 기반으로 채팅 문자  학습 모델에 적용하여 감정을 도출하는 머신러닝 기술을 개발하였다. "
   
