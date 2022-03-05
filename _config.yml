@@ -161,8 +161,12 @@ social_link:
 our_services_title: 'What I Do'
 our_services_tagline: 'service'
 
-our_services:
-  - name: "Web Development"
+our_services: 
+  - 
+    name: |-
+        Web 
+        Development
+
     image: "img/svg/source.svg"
     description: "Web design is a similar process of creation, with the intention of presenting.."
   
