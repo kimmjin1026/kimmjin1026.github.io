@@ -218,7 +218,7 @@ portfolios:
     category: '논문'
     video_link: 'https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002761282'
     
-  - main_image: 'img/portfolio/1.jpg'
+  - main_image: 'img/portfolio/2.jpg'
     title: '1인 가구를 위한 스마트 스피커'
     type: '작품'
     category: '작품'
