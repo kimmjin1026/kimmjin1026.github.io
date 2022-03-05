@@ -217,16 +217,14 @@ professional_skills:
 ##########################################
 ################ portfolios ##############
 #########################################
-portfolio_title: 'Creative Works'
+portfolio_title: 'What I did'
 portfolio_tagline: 'Portfolios'
-portfolio_categories: ['video', 'animation', 'image']
+portfolio_categories: ['']
 
 portfolios: 
   - main_image: 'img/portfolio/1.jpg'
-    title: 'Popup Video'
-    type: 'video'
-    category: 'video'
-    video_link: 'https://www.youtube.com/watch?v=ICr_bOuM9Zo'
+    title: '인공지능 감정분석 기술을 이용한 관객 참여형 공연에서의 실감형 콘텐츠 생성 방식에 관한 연구
+    video_link: 'https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002761282'
 
   - main_image: 'img/portfolio/2.jpg'
     title: 'Popup Image'
