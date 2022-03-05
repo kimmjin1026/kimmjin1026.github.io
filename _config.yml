@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you:
+# If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -17,22 +17,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arlo
+title: myoungjin Kim
 description: 'vCard & Resume Template'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kimmjin1026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-logo:
+logo: 
   logo: 'img/logo/logo.png'
   light: 'img/logo/light.png'
   mobile: 'img/logo/mobile.png'
 favicon:  ''
 
-vendor:
+vendor: 
   name: DUCOR
   url: "https://themeforest.net/user/ducor"
 
-html_directionality:  'rtl' # ltl ( default ) "rtl", ltl
+
+layout: 'classic'
+html_directionality: 'ltl' # ltl ( default ) "rtl", ltl
+home_style: 'parallax'
+background_style: 'dark' # default ( light), "dark"
+title: '김명진'
+tag: []
+description: ''
 # Build settings
 plugins:
   - jekyll-feed
@@ -72,9 +79,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -98,7 +105,7 @@ compress_html:
     envs: development
 
 ##
-getform_id: # to go https://getform.io/ and create an account for contact form
+getform_id: # to go https://getform.io/ and create an account for contact form 
 
 
 ##########################################################################
@@ -110,49 +117,49 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 og_image                 : '/images/profile.jpg' # Open Graph/Twitter default site image
-header:
+header: 
   - image                 : '/images/profile.jpg'
 
 ###########################################################################
 ###########################   Home / hero  ################################
 ###########################################################################
 
-first_name: Albert
-last_name: Walkers
-date_of_bath: '1990-07-01 00:00'
-email: 'mymail@gmail.com'
-phone: '+77 022 177 05 05'
-address: 'Ave 11, New York, USA'
-interests: 'Playstation, Reading'
-study: 'Univercity of Chicago'
-degree: 'Master'
+first_name: Myoungjin 
+last_name: Kim
+date_of_bath: '1999-10-26'
+email: 'kimmjin10@naver.com'
+phone: '010-3397-3025'
+address: '대한민국, 서울'
+interests: '명상, 그림 그리기, 추리소설 읽기'
+study: '덕성여자대학교'
+degree: 'IT미디어공학과 학사'
 cv_download_link: '#'
-user_intro: ' I am a Web Developer, and I&#39;m very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.'
+user_intro: "안녕하세요 저는 웹과 앱을 개발하고싶은 개발자 <span>김 명 진<span>입니다.\n디자인적으로 기업에 맞고 고객이 보기 편한, 서비스적으로도 편리한 웹 및 앱을 개발함으로써 결과적으로 깨끗한 웹/앱 서비스를 개발하여 고객들이 필요로하는, 필수로하는 서비스를 제공하고 싶습니다."
 
 
-freelance_hire: true
-professions:
-  - photographer
-  - blogger
+freelance_hire: false
+professions: 
+  - App developer
+  - designer
   - web developer
-  - freelancer
-  - photographer
+  - machine learning engineer
+  - full stack
 author_description: "<strong>Hello, I’m a Patrick</strong>, web-developer based on Paris. <br> I have rich experience in web site design &amp; building <br> and customization. Also I am good at <strong>html, css, <br> wordpress, php, jquery, bootstrap.</strong>"
 social_link:
   - name: facebook
     icon: "xcon-facebook"
     link: "#"
-  - name: twitter
+  - name: twitter 
     icon: "xcon-twitter"
     link: "#"
 
-  - name: linkedin
+  - name: linkedin 
     icon: "xcon-linkedin"
     link: "#"
-  - name: instagram
+  - name: instagram 
     icon: "xcon-instagram"
     link: "#"
-  - name: behance
+  - name: behance 
     icon: "xcon-behance"
     link: "#"
 
@@ -160,114 +167,116 @@ social_link:
 #############################################
 ######### Our Services ######################
 #############################################
-our_services_title: 'Services'
-our_services_tagline: 'What I Do'
+our_services_title: 'What I DO'
+our_services_tagline: 'service'
 
 our_services:
-  - name: "Web Development"
-    image: "img/svg/source.svg"
-    description: "Web design is a similar process of creation, with the intention of presenting.."
-
-  - name: 'Brand Identity'
+  
+  - name: 'Web Developer'
     image: 'img/svg/line-chart.svg'
-    description: 'Web design is a similar process of creation, with the intention of presenting...'
-
-  - name: 'Creative Design'
+    description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다. 늘리기 늘리기'
+  
+  - name: 'App Development Android'
     image: 'img/svg/light-bulb.svg'
-    description: 'Web design is a similar process of creation, with the intention of presenting...'
-
-  - name: 'Adobe Illustrator'
+    description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다.'
+    
+  - name: "App Development IOS"
+    image: 'img/svg/light-bulb.svg'
+    description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다. 눌리기 '
+  
+  - name: 'Photoshop / Illustration / XD / Indesign'
     image: 'img/svg/adobe-illustrator.svg'
-    description: 'Web design is a similar process of creation, with the intention of presenting...'
-
-  - name: 'Adobe Photoshop'
-    image: 'img/svg/adobe-photoshop.svg'
-    description: 'Web design is a similar process of creation, with the intention of presenting...'
-
-  - name: 'Social Media'
+    description: 'GTQi 1급 자격증을 취득했으며, 대학과정에서 Photoshop, illustrator, XD, Indesign 기술을 배웠으며 성적은 A+이다.'
+  
+  - name: "Machine Learning"
+    image: "img/svg/source.svg"
+    description: "TextCNN을 기반으로 채팅 문자  학습 모델에 적용하여 감정을 도출하는 머신러닝 기술을 개발하였다. "
+  
+  - name: 'Unity'
     image: 'img/svg/twitter-1.svg'
     description: 'Web design is a similar process of creation, with the intention of presenting...'
 
 ##################################################################
 ################  professional_skills ############################
 ##################################################################
-professional_skill_title: 'In a <span>short time</span>, I have been able to achieve excellence in all areas of app and web development.'
-professional_skill_description: 'I provide cost-effective and high quality products to meet our Clients’ needs of timely delivery World Wide. I want to be local in a global world to be where our Customers need our services customers need our services.'
+professional_skill_title: ' "<span>더 노력하고 더 성장하고 더 겸손한 개발자</span>"가 되겠습니다. '
+professional_skill_description: '기업에 '
 
 professional_skills:
-  - name: 'WordPress'
+  - name: 'HTML / CSS / JS / JAVA'
+    percentage: '80'
+  
+  - name: 'Python'
     percentage: '90'
-
-  - name: 'PHP / MYSQL'
+ 
+  - name: 'Swift '
     percentage: '65'
-
-  - name: 'HTML / CSS / JS'
-    percentage: '95'
-
+  
   - name: 'Photoshop'
     percentage: '85'
 ##########################################
 ################ portfolios ##############
 #########################################
-portfolio_title: 'Creative Works'
+portfolio_title: 'What I did'
 portfolio_tagline: 'Portfolios'
-portfolio_categories: ['video', 'animation', 'image']
+portfolio_categories: ['논문','앱','웹']
 
-portfolios:
+portfolios: 
   - main_image: 'img/portfolio/1.jpg'
-    title: 'Popup Video'
-    type: 'video'
-    category: 'video'
-    video_link: 'https://www.youtube.com/watch?v=ICr_bOuM9Zo'
+    title: '인공지능 감정분석 기술을 이용한 관객 참여형 공연에서의 실감형 콘텐츠 생성 방식에 관한 연구
+    type: '논문'
+    category: '논문'
+    video_link: 'https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002761282'
 
   - main_image: 'img/portfolio/2.jpg'
     title: 'Popup Image'
     type: 'image'
     category: 'image'
-    video_link:
+    video_link: 
 
   - main_image: 'img/portfolio/8.webp'
     title: 'Animate Image'
     type: 'animation'
     category: 'animation'
-    video_link:
+    video_link: 
 
 
   - main_image: 'img/portfolio/4.jpg'
     title: 'Popup Image'
     type: 'image'
     category: 'image'
-    video_link:
+    video_link: 
 
   - main_image: 'img/portfolio/5.jpg'
     title: 'Popup Image'
     type: 'image'
     category: 'image'
-    video_link:
+    video_link: 
 
   - main_image: 'img/portfolio/6.jpg'
     title: 'Popup Image'
     type: 'image'
     category: 'image'
-    video_link:
+    video_link: 
+    
+    
 
 ############################################
 ############## testimonial #################
 ############################################
 testimonials:
-  - quote: 'We were looking for a logo with a touch of modernism. Arlo grasped our needs and produced a stunning design. Awesome to work with Arlo. Incredibly organized, easy to communicate with, responsive with next iterations.'
-    author_name: 'Steve Collins'
-    author_image: '/img/about/2.jpg'
-    author_profession: 'Photographer'
-
-#############################################
+  - quote: '이제 막 성장하고 빛을 발하려고 하는 개발자 입니다. 배우고자하는 마음가짐을 즐기며 목표지향적인 사람으로서 저의 능력과 기업에서의 배움을 활용하여 기업의 목표를 향해 함께 나아가는 개발자가 되고 싶습니다.
+  실무 경험을 쌓아 크게 성장하고 싶습니다.'
+    author_image: '/img/about/1.jpg'
+    
+    #############################################
 ############ EXPERIENCE #####################
 #############################################
-experience_title: 'Experience'
-experience_tagline: 'Working Process'
-experience_description: ''
+#experience_title: 'Experience'
+#experience_tagline: 'Working Process'
+#experience_description: ''
 
-educations:
+#educations:
   - year: '2009 - 2013'
     title: 'University of Chicago'
     description: 'Independent study is a form of education offered by many high schools, colleges, and other educational institutions. It is sometimes referred to as directed study.'
@@ -278,7 +287,7 @@ educations:
     title: 'Secondary School'
     description: 'Independent study is a form of education offered by many high schools, colleges, and other educational institutions. It is sometimes referred to as directed study.'
 
-experiences:
+#experiences:
   - year: '2018 - Current'
     title: 'Web Developer'
     description: 'Web development refers to building, creating, and an maintaining websites. It includes aspects such as web design, web programming, and database management.'
@@ -293,10 +302,10 @@ experiences:
 #################################
 ####### Pricing Tables ##########
 #################################
-pricing_title: 'PRICING'
-pricing_tagline: 'CHOOSE PLAN'
+#pricing_title: 'PRICING'
+#pricing_tagline: 'CHOOSE PLAN'
 
-pricing_table:
+#pricing_table:
   - name: "Small"
     icon: "img/svg/icon.svg"
     price: "300"
@@ -325,9 +334,8 @@ pricing_table:
     url: "#"
 
 ########### Fun Facts ###############
-fun_facts:
-  - name: "47 Albumes Listened"
-    icon: "la la-headphones"
+#fun_facts:
+  ##ㅋ   icon: "la la-headphones"
   - name: "15 Awards Won"
     icon: "la la-trophy"
   - name: "54 Projects Completed"
@@ -343,8 +351,7 @@ fun_facts:
   - name: "1250 km Cycled"
     icon: "la la-bicycle"
 
-
-
+ 
 ############ Clients ##########
 clients:
   - image: "images/clients/client_1.png"
@@ -371,3 +378,4 @@ clients:
   - image: "images/clients/client_4.png"
     name: ""
     url: "#"
+  
