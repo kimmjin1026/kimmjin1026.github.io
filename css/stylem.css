@@ -235,7 +235,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_leftpart .inner .menu ul li a:hover{color: #ff214f;}
+.arlo_tm_leftpart .inner .menu ul li a:hover{color: #FFBB00;}
 .arlo_tm_leftpart .inner .menu ul li a:before{
 	position: absolute;
 	content: "";
@@ -286,11 +286,11 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_leftpart .inner .bottom ul li a:hover{color: #ff214f;}
+.arlo_tm_leftpart .inner .bottom ul li a:hover{color: #FFBB00;}
 .arlo_tm_leftpart .inner .resize{
 	width: 38px;
 	height: 38px;
-	background-color: #ff214f;
+	background-color: #FFBB00;
 	position: absolute;
 	right: 0px;
 	bottom: 20%;
