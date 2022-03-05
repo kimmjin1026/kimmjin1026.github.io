@@ -168,7 +168,7 @@ our_services:
   
   - name: 'App Development Android'
     image: 'img/svg/light-bulb.svg'
-    description: "영화 추천 APP 개발 : 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크를 걸어놔 넷플릭스와 연동하였다. & 채팅 APP 개발. "
+    description: "영화 추천 APP 개발 : 로그인, 영화 추천 화면, 환경 설정로 구성되어 있으며 영화 추천 화면은 하이퍼링크를 걸어놔 넷플릭스와 연동하였다. & 채팅 APP 개발. "
     
   - name: 'App Development IOS'
     image: 'img/svg/light-bulb.svg'
