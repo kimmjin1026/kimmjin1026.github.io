@@ -212,7 +212,7 @@ portfolio_tagline: 'Portfolios'
 portfolio_categories: ['논문','작품','앱&웹']
 
 portfolios: 
-  - main_image: 'img/portfolio/1.jpg'
+    - main_image: 'img/portfolio/1.jpg'
     title: '인공지능 감정분석 기술을 이용한 관객 참여형 공연에서의 실감형 콘텐츠 생성 방식에 관한 연구'
     type: '논문'
     category: '논문'
