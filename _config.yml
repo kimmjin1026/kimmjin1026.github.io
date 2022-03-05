@@ -137,7 +137,7 @@ cv_download_link: '#'
 user_intro: '안녕하세요 저는 웹과 앱을 개발하고싶은 개발자 김 명 진입니다. 편리하고 깨끗한 웹 및 앱 서비스를 개발하여 고객들이 필요로하는, 필수로하는 서비스를 제공하고 싶습니다.'
 
 
-freelance_hire: true
+freelance_hire: false
 professions: 
   - App developer
   - designer
