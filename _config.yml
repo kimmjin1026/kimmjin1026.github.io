@@ -134,12 +134,12 @@ interests: '명상, 그림 그리기, 추리소설 읽기'
 study: '덕성여자대학교'
 degree: 'IT미디어공학과 학사'
 cv_download_link: '#'
-user_intro: '안녕하세요 저는 개발자 김 명 진입니다. '
+user_intro: '안녕하세요 저는 웹과 앱을 개발하고싶은 개발자 김 명 진입니다. 편리하고 깨끗한 웹 및 앱 서비스를 개발하여 고객들이 필요로하는, 필수로하는 서비스를 제공하고 싶습니다.'
 
 
 freelance_hire: true
 professions: 
-  - developer
+  - App developer
   - designer
   - web developer
   - machine learning engineer
@@ -172,7 +172,7 @@ our_services_tagline: 'service'
 
 our_services:
   
-  - name: 'Web Development'
+  - name: 'Web \nDevelopment'
     image: 'img/svg/line-chart.svg'
     description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다.'
   
@@ -180,7 +180,7 @@ our_services:
     image: 'img/svg/light-bulb.svg'
     description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다.'
     
-  - name: 'App Development IOS'
+  - name: 'App Development \nIOS'
     image: 'img/svg/light-bulb.svg'
     description: '영화 추천 APP을 개발하였다. 로그인 화면, 영화 추천 화면, 환경 설정 화면으로 구성되어 있으며 영화 추천 화면은 하이퍼링크가 걸려있어 넷플릭스와 연동되도록 하였다.'
   
@@ -200,7 +200,7 @@ our_services:
 ################  professional_skills ############################
 ##################################################################
 professional_skill_title: ' <span>더 노력하고 더 성장하고 더 겸손한 개발자</span>,가 되겠습니다. '
-professional_skill_description: '웹과 앱을 개발하는 개발자가 되고 싶습니다. 편리하고 깨끗한 웹 및 앱을 개발하여 필요로하는, 필수로하는 서비스를 제공하고 싶습니다.'
+professional_skill_description: '기업에 '
 
 professional_skills:
   - name: 'HTML / CSS / JS / JAVA'
