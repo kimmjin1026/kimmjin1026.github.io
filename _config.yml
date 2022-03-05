@@ -209,7 +209,7 @@ professional_skills:
 #########################################
 portfolio_title: 'What I did'
 portfolio_tagline: 'Portfolios'
-portfolio_categories: ['논문', ,'작품','앱', '웹']
+portfolio_categories: ['논문','작품','앱', '웹']
 
 portfolios: 
   - main_image: 'img/portfolio/1.jpg'
