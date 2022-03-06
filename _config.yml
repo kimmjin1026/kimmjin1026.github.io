@@ -223,6 +223,12 @@ portfolios:
     type: '작품'
     category: '작품'
     video_link: 'https://DotingSvelteAtom.kimmjin1026.repl.co'
+    
+  - main_image: 'img/portfolio/3.jpg'
+    title: '영화 추천 앱 개발'
+    type: '앱&웹'
+    category: '앱&웹'
+    video_link: ''
 
   
 
