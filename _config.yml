@@ -224,36 +224,7 @@ portfolios:
     category: '작품'
     video_link: 'https://DotingSvelteAtom.kimmjin1026.repl.co'
 
-  - main_image: 'img/portfolio/3.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
-
-  - main_image: 'img/portfolio/8.webp'
-    title: 'Animate Image'
-    type: 'animation'
-    category: 'animation'
-    video_link: 
-
-
-  - main_image: 'img/portfolio/4.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
-
-  - main_image: 'img/portfolio/5.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
-
-  - main_image: 'img/portfolio/6.jpg'
-    title: 'Popup Image'
-    type: 'image'
-    category: 'image'
-    video_link: 
+  
 
 ############################################
 ############## testimonial #################
