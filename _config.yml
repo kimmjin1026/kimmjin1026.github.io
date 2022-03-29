@@ -170,17 +170,17 @@ our_services:
     image: 'img/svg/light-bulb.svg'
     description: "영화 추천 APP 개발 : 로그인화면, 영화 추천 화면, 환경 설정화면으로 구성/영화 추천 화면은 하이퍼링크를  넷플릭스와 연동 & 채팅 APP 개발 : firebase realtime DB를 활용한 채팅 앱 개발"
     
-  - name: 'IOS APP '
+  - name: 'Machine Learning'
     image: 'img/svg/light-bulb.svg'
-    description: 'Swift 언어를 배워 ios 앱 만드는 과정을 숙지하였으며 로그인 화면, 음식 추천 화면 등을 구현하였다.'
-  
+    description: '사용자의 대화 내용을 전처리하여 TextCNN 모델에 적용 시킨 뒤, 대화에서 사용자의 감정을 도출할 수 있다. 즉, 채팅 문자  학습 모델에 적용하여 감정을 도출하는 머신러닝 기술을 개발하였다.'
+   
   - name: 'Photoshop / Illustration / XD / Indesign'
     image: 'img/svg/adobe-illustrator.svg'
     description: 'GTQi 1급 자격증을 취득했으며, 대학과정에서 Photoshop, illustrator, XD, Indesign 기술을 배우고 숙지하였다.'
   
-  - name: 'Machine Learning'
+  - name: 'IOS APP'
     image: 'img/svg/source.svg'
-    description: "사용자의 대화 내용을 전처리하여 TextCNN 모델에 적용 시킨 뒤, 대화에서 사용자의 감정을 도출할 수 있다. 즉, 채팅 문자  학습 모델에 적용하여 감정을 도출하는 머신러닝 기술을 개발하였다. "
+    description: "Swift 언어를 배워 ios 앱 만드는 과정을 숙지하였으며 로그인 화면, 음식 추천 화면 등을 구현하였다."
   
   - name: 'Unity'
     image: 'img/svg/twitter-1.svg'
